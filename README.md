@@ -1,16 +1,16 @@
-### Hi there 👋
+### Sobre mim 👋
 
-<!--
-**CarlosFMalcher/CarlosFMalcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Meu nome é Carlos Malcher👨‍💻
 
-Here are some ideas to get you started:
+🌟Iniciei minha jornada como programador em fevereiro de 2024 ao ingressar na faculdade 
+de Analise e Desenvolvimento de Sistemas na UNAMA Santarém🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭Atualmente, estou me dedicando no aprendizado de Java Script, HTML E CSS
+
+🌱Busco sempre mais conhecimento, não pretendo focar em apenas um projeto
+
+📫Como me encontrar :
+  -Instagram: https://www.instagram.com/pancreas_2/
+
+📈Confira meus projetos😊
+
