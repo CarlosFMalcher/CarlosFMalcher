@@ -4,7 +4,7 @@
 
 🌟Brazilian Developer 🇧🇷
 
-🔭 Currently focusing on learning Java Script, HTML, and CSS
+🔭 Currently focusing on learning Java Script, HTML, CSS and Python
 
 🌱 Always seeking for more knowledge
 
