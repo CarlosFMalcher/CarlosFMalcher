@@ -2,11 +2,11 @@
   
 👋 Hello! My name is Carlos Malcher 👨‍💻
 
-🌟Brazillian Developer 🇧🇷
+🌟Brazilian Developer 🇧🇷
 
 🔭 Currently focusing on learning Java Script, HTML, and CSS
 
-🌱 I'm always seeking more knowledge and don't plan to focus on just one project
+🌱 Always seeking for more knowledge
 
 📫 How to reach me:
 
