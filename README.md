@@ -1,16 +1,14 @@
-### Sobre mim 👋
+About me 👋
+👋 Hello! My name is Carlos Malcher 👨‍💻
 
-👋 Olá! Meu nome é Carlos Malcher👨‍💻
+🌟 I started my journey as a programmer in February 2024 when I joined the Analysis and Systems Development course at UNAMA Santarém 🌟
 
-🌟Iniciei minha jornada como programador em fevereiro de 2024 ao ingressar na faculdade 
-de Analise e Desenvolvimento de Sistemas na UNAMA Santarém🌟
+🔭 Currently, I'm focusing on learning Java Script, HTML, and CSS
 
-🔭Atualmente, estou me dedicando no aprendizado de Java Script, HTML E CSS
+🌱 I'm always seeking more knowledge and don't plan to focus on just one project
 
-🌱Busco sempre mais conhecimento, não pretendo focar em apenas um projeto
+📫 How to reach me:
 
-📫Como me encontrar :
-  -Instagram: https://www.instagram.com/carlosfmalcher/
-
-📈Confira meus projetos😊
+Instagram: https://www.instagram.com/carlosfmalcher/
+📈 Check out my projects 😊
 
